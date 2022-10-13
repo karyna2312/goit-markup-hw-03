@@ -66,13 +66,9 @@ li {
 .header-background {
     color: var(--primary-white-color);
     border: 1px solid #ECECEC;
-}
-
-
-body header 
-{
     background-color: var(--primary-white-color);
 }
+
 
 .header-box {
 display: flex;
